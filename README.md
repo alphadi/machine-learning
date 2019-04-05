@@ -1,4 +1,4 @@
 # machine-learning
-My repository for popular machine learning models
+My repository where I have performed analytics on some popular datasets and built machine learning models
 
 
